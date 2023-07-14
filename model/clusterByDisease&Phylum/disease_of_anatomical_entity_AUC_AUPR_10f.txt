@@ -1,0 +1,21 @@
+group	auc	aupr
+disease of anatomical entity	0.994	0.981
+disease of anatomical entity	0.994	0.985
+disease of anatomical entity	0.994	0.985
+disease of anatomical entity	0.994	0.982
+disease of anatomical entity	0.996	0.99
+disease of anatomical entity	0.994	0.981
+disease of anatomical entity	0.996	0.989
+disease of anatomical entity	0.993	0.979
+disease of anatomical entity	0.994	0.986
+disease of anatomical entity	0.993	0.978
+disease of anatomical entity	0.994	0.985
+disease of anatomical entity	0.991	0.978
+disease of anatomical entity	0.991	0.972
+disease of anatomical entity	0.992	0.973
+disease of anatomical entity	0.991	0.968
+disease of anatomical entity	0.996	0.988
+disease of anatomical entity	0.992	0.98
+disease of anatomical entity	0.984	0.961
+disease of anatomical entity	0.995	0.986
+disease of anatomical entity	0.994	0.981

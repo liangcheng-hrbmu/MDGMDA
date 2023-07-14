@@ -1,0 +1,21 @@
+group	auc	aupr
+disease of metabolism	0.928	0.891
+disease of metabolism	0.916	0.881
+disease of metabolism	0.911	0.859
+disease of metabolism	0.901	0.868
+disease of metabolism	0.915	0.878
+disease of metabolism	0.911	0.865
+disease of metabolism	0.881	0.829
+disease of metabolism	0.903	0.86
+disease of metabolism	0.897	0.842
+disease of metabolism	0.917	0.866
+disease of metabolism	0.912	0.858
+disease of metabolism	0.899	0.823
+disease of metabolism	0.896	0.846
+disease of metabolism	0.888	0.82
+disease of metabolism	0.924	0.869
+disease of metabolism	0.909	0.849
+disease of metabolism	0.922	0.845
+disease of metabolism	0.903	0.839
+disease of metabolism	0.915	0.868
+disease of metabolism	0.906	0.842
